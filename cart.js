@@ -1,6 +1,6 @@
 function add(a){
-    var r = ++a;
-    return r;
+    var res = ++a;
+    return res;
 }
 
 console.log(add(2));
