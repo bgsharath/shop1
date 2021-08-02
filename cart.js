@@ -6,3 +6,5 @@ function add(a){
 console.log(add(2));
 
 * added branch ********
+
+changes from bugfix3
